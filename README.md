@@ -1,4 +1,4 @@
-# the-learning-resources-app
+# aujourd-hui
 
 ## Project setup
 ```
